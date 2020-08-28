@@ -30,7 +30,7 @@ def selectMainOperation():
         print("Possible reasons:\nLeaving a space at the beginning or end of the number.\nEntering a character other than the numbers in the option.")
 
 def checkSystemFileExist():
-    #try:
+    try:
         bckup = open("95hdparm-apm", "w")
         os.system("clear")
         print("Dumping file...")
@@ -87,8 +87,8 @@ def checkSystemFileExist():
             print("Error while taking your number.")
             print("Possible reasons:\nLeaving a space at the beginning or end of the number.\nEntering a character other than the numbers in the option.")
 
-    #except:
-    #    print("Error\n/usr/lib/pm-utils/power.d/95hdparm-apm not found!\nProgram can't continue.")
+    except:
+        print("Error\n/usr/lib/pm-utils/power.d/95hdparm-apm not found!\nProgram can't continue.")
 
 def main():
 
