@@ -10,5 +10,5 @@ I bought a new computer and never researched KDE. I have an Nvidia graphics card
 * Python3
 * Root permission
 # Follow me!
-Twitter:@0rbianta
+Twitter:@0rbianta<br/>
 And nothing else. I'm not a virtual social person. 😂
