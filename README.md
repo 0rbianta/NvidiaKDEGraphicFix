@@ -13,3 +13,5 @@ I bought a new computer and never researched KDE. I have an Nvidia graphics card
 # Follow me!
 Twitter:@0rbianta<br/>
 And nothing else. I'm not a virtual social person. 😂
+# Warrning!
+That this has only been tested on Ubuntu yet. We cannot guarantee you other systems, but you will probably not have any problems because the program starts the process by checking the existence of the file and the code in it and backs up the file.
