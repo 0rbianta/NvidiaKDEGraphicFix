@@ -10,6 +10,8 @@ I bought a new computer and never researched KDE. I have an Nvidia graphics card
 # Requirements
 * Python3
 * Root permission
+# How to use?
+ "sudo python3 main.py"
 # Follow me!
 Twitter:@0rbianta<br/>
 And nothing else. I'm not a virtual social person. 😂
