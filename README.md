@@ -6,3 +6,9 @@ This modifies the 95hdparm-apm file, which has a similar name in most Linux, and
 When you put a computer using Nvidia to sleep and wake the computer from sleep mode, the texts disappear, the window size is distorted and graphical errors like this occur. Would occur. Thankfully, we got rid of this problem now.
 # How I found that method?
 I bought a new computer and never researched KDE. I have an Nvidia graphics card in my computer. This also pillaged KDE. I searched for solutions on the internet for 3 days, but because other people's solutions did not solve all the errors, I got to work myself one evening. I have tried many things. Eventually I accidentally pressed the "logout" button and realized that the problems were resolved. Then I found the system files that Linux runs when it wakes up. How Does? I looked at "locate sleep" and all directories. Finally something came out. I modded the "thaw | resume)" part by accepting the risk of disrupting the sleep mode feature of my computer in that file starting with 95. I entered the logout code there. Problem solved.
+# Requirements
+* Python3
+* Root permission
+# Follow me!
+Twitter:@0rbianta
+And nothing else. I'm not a virtual social person. 😂
