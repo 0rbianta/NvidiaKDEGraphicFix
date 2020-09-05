@@ -45,7 +45,7 @@ def checkSystemFileExist():
         os.system("clear")
 
         if("loginctl terminate-user" in dump):
-            print("Your system files allready modded. You can restore them.")
+            print("Your system files already modded. You can restore them.")
             exit()
 
         bckup.write(dump)
